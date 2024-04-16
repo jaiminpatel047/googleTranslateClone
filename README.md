@@ -27,7 +27,7 @@ This project is a simple web application designed to translate text between diff
 [Link to live demo](#) *(https://google-transalate-clone.netlify.app/)*
 
 ### Installation
-1. Clone the repository: `git clone [https://github.com/your-username/translation-app.git](https://github.com/jaiminpatel047/googleTranslateClone.git)`
+1. Clone the repository: `git clone [https://github.com/jaiminpatel047/googleTranslateClone.git]`
 2. Open `index.html` in a web browser.
 
 ### Screenshots
